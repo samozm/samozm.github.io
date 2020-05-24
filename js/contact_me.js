@@ -43,7 +43,6 @@ class PersonalContact extends React.Component {
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
-                        <br>
                         <div id="success"></div>
                         {status === "SUCCESS" ? <p>Thanks!</p> : <button>Submit</button>}
                         {status === "ERROR"  && <p>There appears to be a problem with my mail server right now, please try again later. </p>}
