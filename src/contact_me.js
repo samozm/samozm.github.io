@@ -43,7 +43,7 @@ class PersonalContact extends React.Component {
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
-                        <button>Submit</button>}
+                        <button>Submit</button>
                         {status === "SUCCESS" && <p>Thanks!</p> }
                         {status === "ERROR"  && <p>There appears to be a problem. Try disabling lastpass on this page. </p>}
                     </form>

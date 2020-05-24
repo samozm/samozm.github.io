@@ -103,7 +103,6 @@ var PersonalContact = function (_React$Component) {
                             null,
                             "Submit"
                         ),
-                        "}",
                         status === "SUCCESS" && React.createElement(
                             "p",
                             null,
