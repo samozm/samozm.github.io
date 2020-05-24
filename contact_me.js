@@ -98,15 +98,15 @@ var PersonalContact = function (_React$Component) {
                                 React.createElement("p", { "class": "help-block text-danger" })
                             )
                         ),
-                        React.createElement("div", { id: "success" }),
-                        status === "SUCCESS" ? React.createElement(
-                            "p",
-                            null,
-                            "Thanks!"
-                        ) : React.createElement(
+                        React.createElement(
                             "button",
                             null,
                             "Submit"
+                        ),
+                        status === "SUCCESS" && React.createElement(
+                            "p",
+                            null,
+                            "Thanks!"
                         ),
                         status === "ERROR" && React.createElement(
                             "p",
@@ -143,8 +143,13 @@ var PersonalContact = function (_React$Component) {
 
     return PersonalContact;
 }(React.Component);
-//el = () => (<p>hi</p>);
 
-
+el = function el() {
+    return React.createElement(
+        "p",
+        null,
+        "hi"
+    );
+};
 var domContainer = document.getElementById('contactDiv');
-ReactDOM.render(React.createElement(PersonalContact, null), domContainer);
+ReactDOM.render(el, domContainer);
