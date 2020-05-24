@@ -146,5 +146,5 @@ var PersonalContact = function (_React$Component) {
 //el = () => (<p>hi</p>);
 
 
-var domContainer = document.getElementById('contactDiv');
+var domContainer = document.getElementById('contactDivvy');
 ReactDOM.render(React.createElement(PersonalContact, null), domContainer);

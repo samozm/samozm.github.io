@@ -74,5 +74,5 @@ class PersonalContact extends React.Component {
     }
 }
 //el = () => (<p>hi</p>);
-const domContainer = document.getElementById('contactDiv');
+const domContainer = document.getElementById('contactDivvy');
 ReactDOM.render(<PersonalContact/>, domContainer);
