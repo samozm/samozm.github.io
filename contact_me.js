@@ -143,13 +143,8 @@ var PersonalContact = function (_React$Component) {
 
     return PersonalContact;
 }(React.Component);
+//el = () => (<p>hi</p>);
 
-el = function el() {
-    return React.createElement(
-        "p",
-        null,
-        "hi"
-    );
-};
+
 var domContainer = document.getElementById('contactDiv');
-ReactDOM.render(el, domContainer);
+ReactDOM.render(React.createElement(PersonalContact, null), domContainer);

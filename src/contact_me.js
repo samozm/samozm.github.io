@@ -73,6 +73,6 @@ class PersonalContact extends React.Component {
         xhr.send(data);
     }
 }
-el = () => (<p>hi</p>);
+//el = () => (<p>hi</p>);
 const domContainer = document.getElementById('contactDiv');
-ReactDOM.render(el, domContainer);
+ReactDOM.render(<PersonalContact/>, domContainer);
