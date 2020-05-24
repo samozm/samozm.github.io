@@ -12,22 +12,6 @@ class PersonalContact extends React.Component {
     render() {
         const { status } = this.state;
         return(
-            <form
-                onSubmit={this.submitForm}
-                action="https://formspree.io/xpzypzqk"
-                method="POST"
-            >
-
-                <label>Name:</label>
-                <input type="text" name="name" />
-                <label>Email:</label>
-                <input type="email" name="email" />
-                <label>Message:</label>
-                <input type="text" name="message" />
-                {status === "SUCCESS" ? <p>Thanks!</p> : <button>Submit</button>}
-                {status === "ERROR"  && <p>There appears to be a problem with my mail server right now, please try again later. </p>}
-            </form>
-
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2">
                     <form name="sentMessage" id="contactForm" onSubmit={this.submitForm} action="https://formspree.io/xpzypzqk" method="POST">
@@ -67,7 +51,6 @@ class PersonalContact extends React.Component {
                 </div>
             </div>
         );
-
     }
     submitForm(ev) {
         ev.preventDefault();
