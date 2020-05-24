@@ -1,5 +1,5 @@
-import React from "react";
-
+//import React from "react";
+'use strict';
 
 class PersonalContact extends React.Component {
     constructor(props) {
@@ -11,7 +11,7 @@ class PersonalContact extends React.Component {
     }
     render() {
         const { status } = this.state;
-        return (
+        return(
             <form
                 onSubmit={this.submitForm}
                 action="https://formspree.io/xpzypzqk"
@@ -27,6 +27,7 @@ class PersonalContact extends React.Component {
                 {status === "ERROR"  && <p>There appears to be a problem with my mail server right now, please try again later. </p>}
             </form>
         );
+
     }
     submitForm(ev) {
         ev.preventDefault();
@@ -50,6 +51,6 @@ class PersonalContact extends React.Component {
         xhr.send(data);
     }
 }
-
-const domContainer = document.querySelector('#contactDiv');
-ReactDOM.render(PersonalContact, domContainer);
+//el = () => (<p>hi</p>);
+const domContainer = document.getElementById('contactDiv');
+ReactDOM.render(el, domContainer);
