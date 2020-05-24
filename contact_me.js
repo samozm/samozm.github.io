@@ -98,15 +98,15 @@ var PersonalContact = function (_React$Component) {
                                 React.createElement("p", { "class": "help-block text-danger" })
                             )
                         ),
-                        React.createElement(
-                            "button",
-                            null,
-                            "Submit"
-                        ),
-                        status === "SUCCESS" && React.createElement(
+                        React.createElement("div", { id: "success" }),
+                        status === "SUCCESS" ? React.createElement(
                             "p",
                             null,
                             "Thanks!"
+                        ) : React.createElement(
+                            "button",
+                            null,
+                            "Submit"
                         ),
                         status === "ERROR" && React.createElement(
                             "p",
