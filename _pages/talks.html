@@ -1,11 +1,11 @@
 ---
 layout: archive
 title: "Presentations and Posters"
-permalink: /presentations/
+permalink: /talks/
 author_profile: true
 ---
 
 {% include base_path %}
-{% for post in site.talks %}
+{% for post in site.talks reversed %}
   {% include archive-single.html %}
 {% endfor %}
