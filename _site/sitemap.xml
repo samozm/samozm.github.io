@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://samozminkowski.com/talks/2021_juliacon</loc>
+<lastmod>2021-07-30T00:00:00-07:00</lastmod>
+</url>
+<url>
 <loc>https://samozminkowski.com/teaching/2020-fall</loc>
 <lastmod>2020-09-05T00:00:00-07:00</lastmod>
 </url>
@@ -32,9 +36,6 @@
 <loc>https://samozminkowski.com/page-archive/</loc>
 </url>
 <url>
-<loc>https://samozminkowski.com/presentations/</loc>
-</url>
-<url>
 <loc>https://samozminkowski.com/publications/</loc>
 </url>
 <url>
@@ -50,6 +51,9 @@
 <loc>https://samozminkowski.com/talkmap.html</loc>
 </url>
 <url>
+<loc>https://samozminkowski.com/talks/</loc>
+</url>
+<url>
 <loc>https://samozminkowski.com/teaching/</loc>
 </url>
 <url>
@@ -60,7 +64,7 @@
 </url>
 <url>
 <loc>https://samozminkowski.com/files/research_cv_no_phone.pdf</loc>
-<lastmod>2021-07-24T21:21:36-07:00</lastmod>
+<lastmod>2021-07-26T11:59:34-07:00</lastmod>
 </url>
 <url>
 <loc>https://samozminkowski.com/talkmap/map.html</loc>

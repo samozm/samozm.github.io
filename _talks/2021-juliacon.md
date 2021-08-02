@@ -10,7 +10,7 @@ author: "Samuel Ozminkowski and Claudia Solís-Lemus"
 ---
 
 Bayesian network regression with applications to microbiome data, **Sam Ozminkowski** & Claudia Solís-Lemus,
-JuliaCon, Online, July 28-30, 2021
+*JuliaCon*, Online, July 28-30, 2021
 
 [Video](https://juliacon2020-uploads.s3.us-east-2.amazonaws.com/public/Bayesian+network+regression+with+applications+to+microbiome+data%3A+movie2.mp4)
 
