@@ -241,7 +241,7 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: archive
+      layout: talk
       author_profile: true
       share: true
 
