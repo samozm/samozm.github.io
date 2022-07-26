@@ -187,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  posters:
+    output: true
+    permalink: /:collection/:path/
   software:
     output: true
     permalink: /:collection/:path/
