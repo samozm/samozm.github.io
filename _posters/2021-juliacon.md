@@ -1,6 +1,6 @@
 ---
 title: "Bayesian network regression with applications to microbiome data"
-collection: talks
+collection: posters
 type: "Talk"
 permalink: /talks/2021_juliacon
 venue: "JuliaCon"
