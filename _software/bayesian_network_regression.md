@@ -3,7 +3,7 @@ title: "BayesianNetworkRegression"
 collection: software
 type: "Software"
 permalink: /software/BayesianNetworkRegression
-description: A Julia package for fitting Bayesian Network Regression, a model for inferring the relationships between microbiome phylogenetic networks and a dependent variable of interest.
+excerpt: A Julia package for fitting Bayesian Network Regression, a model for inferring the relationships between microbiome phylogenetic networks and a dependent variable of interest.
 ---
 
 {% include base_path %}
