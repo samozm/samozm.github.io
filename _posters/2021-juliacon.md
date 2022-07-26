@@ -2,9 +2,6 @@
 title: "Bayesian network regression with applications to microbiome data"
 collection: posters
 permalink: /talks/2021_juliacon
-venue: "JuliaCon"
-date: 2021-07-30
-location: "Online"
 ---
 
 **Samuel Ozminkowski** & Claudia Solís-Lemus,
