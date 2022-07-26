@@ -20,7 +20,7 @@ description: A Julia package for fitting Bayesian Network Regression, a model fo
 
         <div class="span2">
         <a href="https://samozminkowski.com/BayesianNetworkRegression.jl/dev/">
-            <img src="{{ base_path }}/bayesiannetworkregressionjl.png"
+            <img src="{{ base_path }}/images/bayesiannetworkregressionjl.png"
                   title="BayesianNetworkRegression" alt="Bayesian network regression logo"/></a>
         </div>
     </div>
