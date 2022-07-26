@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sam Ozminkowski"
 title_separator          : "-"
 name                     : &name "Sam Ozminkowski"
-description              : &description "Masters Student in statistics, UW-Madison"
+description              : &description "PhD Student in statistics, Northwestern"
 url                      : https://samozminkowski.com #https://samozm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "samozm/samozm.github.io"
@@ -185,6 +185,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  software:
     output: true
     permalink: /:collection/:path/
 
