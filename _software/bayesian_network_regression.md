@@ -12,7 +12,7 @@ permalink: /software/BayesianNetworkRegression
         <div class="span5">
             A Julia package for fitting Bayesian Network Regression, a model for inferring the relationships between microbiome phylogenetic networks and a dependent variable of interest.
 
-            Also please see the <br/>
+            Also please see the
             <a href="https://samozminkowski.com/BayesianNetworkRegression.jl/dev/">documentation and tutorials.</a><br/>
             <a href="https://github.com/samozm/BayesianNetworkRegression.jl">GitHub</a><br/>
         </div>
