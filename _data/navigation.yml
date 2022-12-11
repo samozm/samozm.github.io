@@ -6,8 +6,8 @@ main:
   - title: "Posters and Presentations"
     url: /talks/    
 
-  #- title: "Research"
-  #  url: /research/
+  - title: "Preprints"
+    url: /preprints/
 
   - title: "Software"
     url: /software/
