@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="/files/research_cv_no_phone.pdf" type="application/pdf">
+<a href="/files/research_cv_no_phone.pdf" target="_blank" title="ozminkowski_cv.pdf"> </a>
 
