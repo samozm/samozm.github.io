@@ -5,7 +5,17 @@ permalink: /talks/
 author_profile: true
 ---
 
+
 {% include base_path %}
+
+<h2> Talks </h2>
+
 {% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+
+<h2> Posters </h2>
+
+{% for post in site.posters reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}

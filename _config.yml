@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sam Ozminkowski"
 title_separator          : "-"
 name                     : &name "Sam Ozminkowski"
-description              : &description "Masters Student in statistics, UW-Madison"
+description              : &description "PhD Student in statistics, Northwestern"
 url                      : https://samozminkowski.com #https://samozm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "samozm/samozm.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Samuel Ozminkowski"
   avatar           : "sam.jpg"
-  bio              : "M.S. student in statistics at UW-Madison"
-  location         : "Madison,WI"
+  bio              : "Grad student in statistics at Northwestern"
+  location         : "Evanston, IL"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : " ozminkowski [at] wisc [dot] edu"
+  email            : " ozminkowski [at] u.northwestern.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        : 
@@ -181,10 +181,19 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  preprints:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  posters:
+    output: true
+    permalink: /:collection/:path/
+  software:
     output: true
     permalink: /:collection/:path/
 
@@ -227,6 +236,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _preprints
+  - scope:
+      path: ""
+      type: preprints
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _research
   - scope:
       path: ""
@@ -236,10 +254,28 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _software
+  - scope:
+      path: ""
+      type: software
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+      description: true
   # _talks
   - scope:
       path: ""
       type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+    # _posters
+  - scope:
+      path: ""
+      type: posters
     values:
       layout: talk
       author_profile: true

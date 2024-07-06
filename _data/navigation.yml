@@ -6,14 +6,15 @@ main:
   - title: "Posters and Presentations"
     url: /talks/    
 
-  #- title: "Research"
-  #  url: /research/
+  - title: "Preprints"
+    url: /preprints/
+
+  - title: "Software"
+    url: /software/
 
   - title: "Teaching"
     url: /teaching/    
-    
-  #- title: "Portfolio"
-  #  url: /portfolio/
+  
         
   #- title: "Blog Posts"
   #  url: /blog/
