@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "samozm"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : https://orcid.org/0000-0002-1188-5903
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "sam_ozm"
+  bluesky          : https://bsky.app/profile/ozminkowski.bsky.social
   vine             :
   weibo            :
   xing             :
