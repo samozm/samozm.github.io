@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Samuel Ozminkowski"
   avatar           : "sam.jpg"
-  bio              : "Grad student in statistics at Northwestern"
+  bio              : "Phd Candidate, Dept. of Statistics & Data Science, Northwestern University"
   location         : "Evanston, IL"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : " ozminkowski [at] u.northwestern.edu"
+  googlescholar    : https://scholar.google.com/citations?user=yX9B8_oAAAAJ&hl=en&oi=ao
+  email            : "ozminkowski [at] u.northwestern.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        : 
