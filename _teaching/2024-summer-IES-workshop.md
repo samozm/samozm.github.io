@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop Assistant"
 permalink: /teaching/2024-RCT-workshop
 venue: "Northwestern University, Institute for Policy Research"
-date: 2024-07-25
+date: July 2024, 2026
 location: "Evanston, Illinois"
 ---
 

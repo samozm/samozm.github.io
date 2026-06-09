@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sam Ozminkowski"
+title                    : "Samuel Ozminkowski"
 title_separator          : "-"
-name                     : &name "Sam Ozminkowski"
-description              : &description "PhD Student in statistics, Northwestern"
+name                     : &name "Samuel Ozminkowski"
+description              : &description "PhD Candidate Statistics & Data Science Northwestern University"
 url                      : https://samozminkowski.com #https://samozm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "samozm/samozm.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Samuel Ozminkowski"
   avatar           : "sam.jpg"
-  bio              : "Phd Candidate, Dept. of Statistics & Data Science, Northwestern University"
+  bio              : "Phd Candidate Statistics & Data Science Northwestern University"
   location         : "Evanston, IL"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

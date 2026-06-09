@@ -2,12 +2,12 @@
 main:
   #- title: "Publications"
   #  url: /publications/
+  - title: "Publications"
+    url: /publications-and-preprints/
 
-  - title: "Posters and Presentations"
+  - title: "Presentations"
     url: /talks/    
 
-  - title: "Publications and Preprints"
-    url: /publications-and-preprints/
 
   - title: "Software"
     url: /software/
