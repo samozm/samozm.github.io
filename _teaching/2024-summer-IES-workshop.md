@@ -1,11 +1,11 @@
 ---
-title: "Research Training Institute on Cluster-Randomized Trials"
+title: "Research Training Institute on Cluster-Randomized Trials (July 2024, 2026)"
 collection: teaching
 type: "Workshop Assistant"
 permalink: /teaching/2024-RCT-workshop
 venue: "Northwestern University, Institute for Policy Research"
-date: July 2024, 2026
 location: "Evanston, Illinois"
+date: 2026-07-05
 ---
 
 {% include base_path %}

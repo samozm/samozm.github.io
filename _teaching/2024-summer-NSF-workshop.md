@@ -1,11 +1,11 @@
 ---
-title: "Improving Evaluations of R&D in STEM Education 2024 Summer Institute"
+title: "Improving Evaluations of R&D in STEM Education 2024 Summer Institute (July 2024)"
 collection: teaching
 type: "Workshop Assistant"
 permalink: /teaching/2024-STEM-workshop
 venue: "Northwestern University, Institute for Policy Research"
-date: 2024-07-08
 location: "Evanston, Illinois"
+date: 2024-07-05
 ---
 
 {% include base_path %}

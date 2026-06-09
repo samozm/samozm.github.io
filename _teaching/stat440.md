@@ -1,11 +1,11 @@
 ---
-title: "Stat 440: Applied Probability for Statistics"
+title: "Stat 440: Applied Probability for Statistics (Spring 2025,2026)" 
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/stat440
 venue: "Northwestern University, Department of Statistics and Data Science"
-date: Spring 2025,2026
 location: "Evanston, Illinois"
+date: 2026-04-05
 ---
 
 {% include base_path %}

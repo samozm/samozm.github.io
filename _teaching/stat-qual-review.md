@@ -1,11 +1,11 @@
 ---
-title: "Statistics and Data Science Qualifying Exam Review Session"
+title: "Statistics and Data Science Qualifying Exam Review Session (Summer 2024, 2025, 2026)"
 collection: teaching
 type: "Instructor"
 permalink: /teaching/qual-review
 venue: "Northwestern University, Department of Statistics and Data Science"
-date: Summer 2024, 2025, 2026
 location: "Evanston, Illinois"
+date: 2026-08-25
 ---
 
 {% include base_path %}

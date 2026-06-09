@@ -1,5 +1,5 @@
 ---
-title: "Stat 371: Statistics for the Life Sciences"
+title: "Stat 371: Statistics for the Life Sciences (Fall 2020)"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2020-fall
