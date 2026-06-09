@@ -3,7 +3,7 @@ title: "Exploring the utility of the gut microbiome as a longitudinal health mon
 collection: publications
 permalink: /publications/chimp-microbiome
 paperurl: 'https://doi.org/10.1002/ajp.70004'
-pubdate: 2025
+year: 2025
 venue: "American Journal of Primatology"
 ---
 
