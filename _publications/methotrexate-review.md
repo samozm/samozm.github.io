@@ -3,7 +3,7 @@ title: "Methotrexate treatment for pain due to osteoarthritis of the hand and kn
 collection: publications
 permalink: /publications/methotrexate-review
 paperurl: ''
-pubdate: 2026
+date: 2026-12-31
 venue: "Reumatología Clínica"
 ---
 
