@@ -2,8 +2,8 @@
 title: "Identifying microbial drivers in biological phenotypes with a Bayesian Network Regression model"
 collection: publications
 permalink: /publications/bayesian_network_regression
-paperurl: 'https://arxiv.org/abs/2208.05600'
-pubdate: 2024-05-20
+paperurl: 'https://doi.org/10.1002/ece3.11039'
+pubdate: 2024
 venue: "Ecology and Evolution"
 ---
 
