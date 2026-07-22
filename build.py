@@ -11,6 +11,7 @@ TEMPLATES_DIR = BASE_DIR / "templates"
 CONTENT_DIR = BASE_DIR / "content"
 ASSETS_DIR = BASE_DIR / "assets"
 STYLES_PATH = BASE_DIR / "styles.css"
+CNAME_PATH = BASE_DIR / "CNAME"
 DIST_DIR = BASE_DIR / "dist"
 BIB_PATH = ASSETS_DIR / "publications.bib"
 
@@ -232,6 +233,7 @@ def render_page(shell_tmpl, nav_html, aside_html, title, main_html):
 def copy_static(dist_dir):
     shutil.copytree(ASSETS_DIR, dist_dir / "assets", ignore=shutil.ignore_patterns(".DS_Store"))
     shutil.copy(STYLES_PATH, dist_dir / "styles.css")
+    shutil.copy(CNAME_PATH, dist_dir / "CNAME")
 
 
 def main():

@@ -40,6 +40,11 @@ be wiped out on the next build.
 - `styles.css` — copied verbatim from the top-level `styles.css`.
 - `assets/` — copied verbatim from the top-level `assets/` (images, PDFs,
   `publications.bib`), minus `.DS_Store`.
+- `CNAME` — copied verbatim from the top-level `CNAME`. Tells GitHub Pages
+  to serve the site at the custom domain (`samozminkowski.com`) instead of
+  `samozm.github.io`. Must be present in every deploy artifact or GitHub can
+  drop the custom domain / HTTPS configuration — edit the top-level `CNAME`
+  if the domain ever changes, don't edit `dist/CNAME` directly.
 
 ## What's in `templates/`
 
