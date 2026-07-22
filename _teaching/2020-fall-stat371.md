@@ -1,9 +1,0 @@
----
-title: "Stat 371: Statistics for the Life Sciences (Fall 2020)"
-collection: teaching
-type: "Teaching Assistant"
-permalink: /teaching/2020-fall
-venue: "University of Wisconsin-Madison, Department of Statistics"
-date: 2020-09-05
-location: "Madison, Wisconsin"
----
